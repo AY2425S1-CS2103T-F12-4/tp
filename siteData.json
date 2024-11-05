@@ -52,6 +52,7 @@
         "implementation": "Implementation",
         "undo-redo-feature": "Undo/redo feature",
         "delete-feature": "Delete Feature",
+        "export-feature": "Export Feature",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
