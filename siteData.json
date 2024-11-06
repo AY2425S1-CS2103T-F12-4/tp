@@ -125,7 +125,7 @@
         "redo": "Redo",
         "export-data": "Export Data",
         "clear-data": "Clear Data",
-        "exit-program": "Exit Program",
+        "quit-program": "Quit Program",
         "save-data": "Save Data",
         "edit-data-file": "Edit Data File",
         "faq": "FAQ",
