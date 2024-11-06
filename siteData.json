@@ -112,6 +112,7 @@
       "title": "User Guide",
       "headings": {
         "vbook-user-guide": "VBook User Guide",
+        "prerequisite": "Prerequisite",
         "quick-start": "Quick start",
         "command-summary": "Command Summary",
         "features": "Features",
