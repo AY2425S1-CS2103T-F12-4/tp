@@ -8,6 +8,6 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 with(this){return _c('div',{attrs:{"id":"content-wrapper"}},[_c('h3',{attrs:{"id":"project-vbook"}},[_v("Project: VBook"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#project-vbook","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',[_v("VBook is a sleek, professional contact management app for programmers that value privacy and self-hosting. Optimised\nfor freelance software developers, this app combines Command Line Interfaces with professional contact management to\ngive developers the contact book they deserve.")]),_v(" "),_c('p',[_v("Given below are my contributions to the project.")]),_v(" "),_c('p',[_v("None yet!")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 1:41:08 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 1:42:04 GMT+8]")])])])}
 }];
   
