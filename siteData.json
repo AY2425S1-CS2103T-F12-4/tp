@@ -64,6 +64,8 @@
         "use-cases": "Use cases",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
+        "appendix-known-issues": "Appendix: Known Issues",
+        "failing-tests-on-windows-when-run-more-than-once": "Failing tests on Windows when run more than once",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
