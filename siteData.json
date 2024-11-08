@@ -51,7 +51,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "undo-redo-feature": "Undo/redo feature",
-        "delete-feature": "Delete Feature",
+        "remove-feature": "Remove Feature",
         "add-feature": "Add Feature",
         "export-feature": "Export Feature",
         "encryption-feature": "Encryption Feature",
@@ -68,7 +68,7 @@
         "failing-tests-on-windows-when-run-more-than-once": "Failing tests on Windows when run more than once",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
+        "removing-a-person": "Removing a person",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
