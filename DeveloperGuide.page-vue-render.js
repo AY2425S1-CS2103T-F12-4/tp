@@ -494,6 +494,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing data files")]),_v(" "),_c('ol',[_c('li',[_c('p',[_v("Prerequisites: There is an existing /data/addressbook.json file in the home folder of the .jar file.")])]),_v(" "),_c('li',[_c('p',[_v("Delete the /data/addressbook.json file. Close the address book and open it again.")]),_v(" "),_c('p',[_v("Expected: The data is replaced with the sample data that shows when the app is first open.")])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Fri, 8 Nov 2024, 9:51:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sun, 10 Nov 2024, 15:11:45 GMT+8]")])])])}
 }];
   
