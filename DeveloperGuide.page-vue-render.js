@@ -596,6 +596,6 @@ with(this){return _c('h2',{attrs:{"id":"appendix-effort"}},[_v("Appendix: Effort
 with(this){return _c('p',[_v("While we didn't expand the fields much from AB3, certain features like the Export feature took us a lot of time to debug, especially given known bugs with the Windows system (see "),_c('a',{attrs:{"href":"#failing-tests-on-windows-when-run-more-than-once"}},[_v("failing tests on Windows when run more than once")]),_v(")")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 22:28:43 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 12 Nov 2024, 2:31:04 GMT+8]")])])])}
 }];
   
