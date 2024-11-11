@@ -66,10 +66,12 @@
         "glossary": "Glossary",
         "appendix-known-issues": "Appendix: Known Issues",
         "failing-tests-on-windows-when-run-more-than-once": "Failing tests on Windows when run more than once",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "removing-a-person": "Removing a person",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-effort": "Appendix: Effort"
       },
       "headingKeywords": {}
     },
